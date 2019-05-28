@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/frank-says' do
-  "my name is sujit"
+  "my name is foo"
 end
